@@ -7,17 +7,17 @@ github.jenmitz.io/code-refactor
 This is a one-page website from a homework assignment. The impovements are as follows:
 
 ### CSS
-Consolidated sections together as to avoid redundancy
-Rearranged sections to follow flow of HTML
-Improved styling
+Consolidated sections together as to avoid redundancy  
+Rearranged sections to follow flow of HTML  
+Improved styling  
 Removed unnecessary stlying
 
 ### HTML
-Add alt tags for images
-Updated text/titles/links
-Made links work properly
+Add alt tags for images  
+Updated text/titles/links  
+Made links work properly  
 Cleaned up incorrect and excess tags
 
 ## Languages
-HTML5
+HTML5  
 CSS3
