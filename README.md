@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<img width="335" alt="Screen Shot 2020-09-25 at 2 51 08 PM" src="https://user-images.githubusercontent.com/49658803/94319052-ad5f9880-ff3e-11ea-96a6-8bb32dd5ee88.png">
+<img width="341" alt="new-code-refactor-screenshot" src="https://user-images.githubusercontent.com/49658803/94321554-ca976580-ff44-11ea-9850-97cb4e82251e.png">
 
 ## Site
 github.jenmitz.io/code-refactor
