@@ -119,12 +119,14 @@ p {
 	margin: 10px auto;
 	max-width: 150px;
 }
-.footer {
+footer {
 	clear: both;
 	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 	padding: 30px;
 	text-align: center;
 }
-.footer h2 {
+/* converted a non-semantic element(<div>) into a semantic element (<footer>) */ 
+/* this makes the markup shorter and more easy to read */
+footer h2 {
 	font-size: 20px;
 }
